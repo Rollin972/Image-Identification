@@ -1,0 +1,81 @@
+body
+{
+    font-family: 'Fredoka One', cursive;
+  background: linear-gradient(#7BF2E9,#B65EBA);
+}
+.header_div
+  {
+
+  color :midnightblue;
+  height : 150px;
+  text-align: center;
+  background: linear-gradient(#64E8DE,#8A64EB);
+  }
+
+  .header_div h2
+  {
+    font-size: 50px; 
+  }
+ 
+  .header_div img
+  {
+    width: 150px
+  }
+  .main_div
+  {
+    
+    padding: 35px;
+    margin-top: 5px;
+    border: 3px solid white;
+    height: 500px;
+    
+    background: linear-gradient(#B65EBA,#2E8DE1);
+  }
+  .main_div label
+  {
+    background: white;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px white;    
+  }
+  #camera , #result
+  {
+    border: 2px solid white;
+    width: 311px;
+    height: 300px; 
+    
+    box-shadow: 5px 5px 18px white;    
+  }
+  .main_div button
+  {
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px white;
+    border: 1px solid;
+  }
+  .footer_div
+  {
+    margin-bottom: 50px;
+  }
+
+  .footer_div h4
+  {
+    background: white;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px white;    
+  }
+  .footer_div img
+  {
+    width: 70px;
+  }
+  .copy_right_footer {
+   position: fixed;
+   color: #6c757d;
+   bottom: 0;
+   width: 100%;
+   background-color: #f5f5f5;
+   line-height: 3;
+   text-align: center;
+}
